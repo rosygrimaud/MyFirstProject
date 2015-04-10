@@ -11,17 +11,17 @@ h1.title{
     font-size: 24px;
     color: #000000;
     font-family: monospace;
-    text-align: center
+    text-align: center;
 }
 
 p.answers{
-    font-size: 18px;
+    font-size: 24px;
     color: #EE6022;
     font-family: monospace;
 }
 
 h3.questions{
-    font-size: 24px;
+    font-size: 18px;
     color: dodgerblue;
     font-family: monospace;
 }
@@ -34,6 +34,7 @@ td {
     margin: 10px;
     align-content: center;
     text-align: center;
+    font-family: verdana;
 }
 
 em {
@@ -63,4 +64,11 @@ ol li {
     list-style: initial;
     margin-left: 10px;
     font-size: 18px;
-}        
+}  
+
+form {
+    font-family: helvetica;
+    font-size: 18px;
+    text-emphasis: bold;
+    color: plum;
+}
