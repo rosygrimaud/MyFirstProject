@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<head>
+<title>A second page></title>
+</head>
+<body>
+	<h1>What is this?</h1>
+	<p>This is a <strong>magical</strong> land.</p>
+	<h2>What can I find here?</h>
+	<p>Here you will find creatures like <em>elves</em>, <em>centaurs</em>, and <em>hippogriffs</em>.</p>
+	<h3>Can I pet the creatures?</h3>
+	<p>Yes. If you want to die.</p>
+	<h4>How will I die?<h4>
+	<ul>
+		<li>Elves will spear you.</li>
+		<li>Centaurs will trample you.</li>
+		<li>Hippogriffs will eat you.</li></ul>
+	<h5>Why are these creatures so mean?</h5>
+	<p>Here are the reasons:</p>
+	<ol>
+		<li>Elves never eat meat.</li>
+		<li>Centaurs can’t manage their weight.</li>
+		<li>Hippogriffs are bloody chickens.</li>
+	</ol>
+	<p><h6>Can I visit this magical land?</h6><br>
+	Yes. Here is <a href=“http://harrypotter.wikia.com/wiki/Harry_Potter”>Harry Potter Land</a></p>
+	
